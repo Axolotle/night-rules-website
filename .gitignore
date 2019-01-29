@@ -1,0 +1,13 @@
+# Grav Specific
+data/*
+!data/.*
+plugins/*
+!plugins/.*
+themes/*
+!themes/.*
+accounts/*
+!accounts/.*
+
+security.yaml
+
+notes.md
