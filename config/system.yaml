@@ -2,11 +2,12 @@ absolute_urls: false
 
 home:
   alias: '/home'
+  hide_in_urls: true
 
 pages:
-  theme: quark
+  theme: night-rules
   markdown:
-    extra: false
+    extra: true
   process:
     markdown: true
     twig: false
@@ -20,15 +21,15 @@ cache:
 
 twig:
   cache: true
-  debug: true
+  debug: false
   auto_reload: true
   autoescape: false
 
 assets:
-  css_pipeline: false
+  css_pipeline: true
   css_minify: true
   css_rewrite: true
-  js_pipeline: false
+  js_pipeline: true
   js_minify: true
 
 errors:
