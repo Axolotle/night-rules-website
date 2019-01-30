@@ -2,12 +2,9 @@ absolute_urls: false
 
 home:
   alias: '/home'
-  hide_in_urls: true
 
 pages:
   theme: night-rules
-  markdown:
-    extra: true
   process:
     markdown: true
     twig: false

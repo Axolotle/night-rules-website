@@ -1,3 +1,8 @@
+pages:
+  markdown:
+    extra: true
+    auto_line_breaks: true
+
 twig:
   debug: true
 

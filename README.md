@@ -25,3 +25,9 @@ Run the simple dev server from `grav-admin/` :
 ```bash
 php -S localhost:8000 system/router.php
 ```
+
+watch scss modifications :
+```bash
+cd user/themes/night-rules-theme
+scss --watch scss:css
+```
