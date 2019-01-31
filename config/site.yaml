@@ -1,7 +1,7 @@
-title: Grav
+title: Les Règles de la Nuit
 author:
-  name: Joe Bloggs
-  email: 'joe@example.com'
+  name: Nicolas CHESNAIS
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-
+    description: 'Les Règles de la Nuit est un association de droit local (Alsace-Moselle) créée en 2014 qui a pour objet principal la création, production et diffusion d’œuvres artistiques.'
+    keywords: 'association, les règles de la nuit, regles, nuit, littérature, édition, éditions, edition, livre, numérique, léo henry, luvan, laure afchain, stéphane perger'
+    'og:type': 'website'
