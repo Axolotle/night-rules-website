@@ -8,6 +8,9 @@ pages:
   process:
     markdown: true
     twig: false
+  markdown:
+    extra: true
+    auto_line_breaks: true
 
 cache:
   enabled: true
