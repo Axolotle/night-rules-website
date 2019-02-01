@@ -12,3 +12,6 @@ assets:
 
 debugger:
   enabled: true
+
+errors:
+  display: 1
