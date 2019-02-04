@@ -2,19 +2,14 @@
 title: 'Twin Peaks, 90210'
 authors:
     -
-        name: 'Léo Henri'
+        name: 'Léo Henry'
         website: 'http://leo-henry.com/'
-    -
-        name: test
-        website: test
 contributors:
     -
         name: 'Laure Afchain'
     -
         name: 'Stéphane Perger'
         website: 'http://pergerbd.blogspot.com/'
-    -
-        name: coucou
 ---
 
 > Dans ce bref mais lumineux essai, Léo Henry explore les liens occultes qui unissent les séries Twin Peaks et Beverly Hills, 90210, et met au jour un des complots les mieux gardés de l'histoire de la télévision.

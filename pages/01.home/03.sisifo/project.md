@@ -4,7 +4,7 @@ websiteurl: 'https://sisifo.site'
 media_order: COUVTW90210.jpg
 authors:
     -
-        name: 'Léo Henri'
+        name: 'Léo Henry'
         website: 'http://leo-henry.com/'
     -
         name: luvan

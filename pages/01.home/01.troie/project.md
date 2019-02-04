@@ -1,5 +1,6 @@
 ---
 title: Troie
+media_order: 'troie-vimeo.png,troie-ambre.jpg'
 authors:
     -
         name: luvan
@@ -13,6 +14,9 @@ contributors:
     -
         name: Fidèle
         website: 'https://www.fidele-editions.com'
+image: troie-ambre.jpg
+metadata:
+    description: 'luvan & Ambre avec Laure Afchain & Fidèle. « Plus rien n’échappe à la guerre qui tranche. La guerre est tout. Chaque pierre, poussière, cil est la guerre ». Les Règles de la nuit lance une souscription / précommande autour de sa prochaine publication.'
 ---
 
 > Plus rien n’échappe à la guerre qui tranche. La guerre est tout.
@@ -26,7 +30,7 @@ contributors:
 
 En 2017, la compagnie *Rebonds d'histoires* commande à luvan des textes de scène autour de récits de la guerre de Troie. Ce corpus donne naissance, l’année suivante, au spectacle *[Troi(e)s](http://www.rebonds-histoires.net/project/troie/)*, réunissant le conteur Matthieu Epp, le batteur Fred Guérin et le violoncelliste Enil Eraslan sous des lumières de Laetitia Hohl.
 
-<iframe src="https://player.vimeo.com/video/243843673?portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[![](troie-vimeo.png)](https://vimeo.com/243843673?target=_blank)
 
 En 2019, *Les Règles de la nuit* publie l'intégralité de ces textes, illustrés par Ambre, dans un livre-objet ébaudissant.
 
@@ -54,6 +58,8 @@ En 2015, il a illustré *Le Chevalier rouge* de luvan (roman, Maelström).
 
 **Ces gens savent ce qu'ils font.**
 
+![Illustration Ambre - Troie](troie-ambre.jpg)
+
 ---
 ### POURQUOI ?
 
@@ -72,9 +78,9 @@ L'illustrateur travaille ainsi directement pour les contraintes de la technique 
 
 Les *Règles de la nuit* est une asso pauvre mais digne.
 
-Pour ce projet, nous avons choisi la souscription plutôt que *crowdfunding*. Ça signifie que, même si l’avance de trésorerie ne nous fera pas de mal, le livre paraîtra quoi qu'il arrive.
+Nous avons choisi de lancer une souscription, pour la liberté que nous octroie une avance de trésorerie. Le livre paraîtra cependant quoi qu'il arrive.
 
-La souscription fait également office de précommande : seuls 270 exemplaires du livre seront mis en vente et aucun retirage n'est prévu. 
+Attention, la souscription fait aussi office de précommande : seuls 270 exemplaires du livre seront mis en vente et aucun retirage n'est prévu. 
 
 Si *Troie* vous intéresse, ne tardez pas trop à vous manifester !
 

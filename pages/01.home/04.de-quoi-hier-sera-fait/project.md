@@ -2,7 +2,7 @@
 title: 'De quoi hier sera fait'
 authors:
     -
-        name: 'Léo Henri'
+        name: 'Léo Henry'
         website: 'http://leo-henry.com/'
 contributors:
     -

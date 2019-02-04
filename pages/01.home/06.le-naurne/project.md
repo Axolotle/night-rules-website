@@ -4,7 +4,7 @@ websiteurl: 'http://www.lenaurne.fr/'
 websitetext: lenaurne.fr
 authors:
     -
-        name: 'Léo Henri'
+        name: 'Léo Henry'
         website: 'http://leo-henry.com/'
     -
         name: luvan

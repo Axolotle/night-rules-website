@@ -4,7 +4,7 @@ websiteurl: 'http://leo-henry.com/html/nouvellesparemail.html'
 websitetext: 'Inscription gratuite'
 authors:
     -
-        name: 'Léo Henri'
+        name: 'Léo Henry'
         website: 'http://leo-henry.com/'
 ---
 
