@@ -9,11 +9,11 @@ Ses AG se tiennent aux alentours de la rentrée scolaire dans différents bistro
 ---
 Pour vos commandes, demandes d'adhésion et/ou soutiens financiers, vous pouvez envoyer chèques bancaires, cash et/ou timbres poste à :
 
-<div class="bloc" markdown="1">
+```
 *Les Règles de la Nuit*
 3 rue de Bâle
 67100 Strasbourg
-</div>
+```
 
 Les Règles de la Nuit n'a pas de compte Paypal mais accepte les virements. Coordonnées bancaires par retour de mail.
 
@@ -22,9 +22,9 @@ Les Règles de la Nuit satisfait aux commandes aussi vite que possible.
 ---
 Si vous vous impatientez, ou si vous vous sentez seuls, vous pouvez écrire à :
 
-<div class="bloc" markdown="1">
+```
 lesreglesdelanuit [CHEZ] gmail [POINT] com
-</div>
+```
 
 Le logo de l'association a été dessiné par [Laure Achain](http://www.lo-circonflexe.fr/).
 Le site internet a été designé et codé par [Nicolas Chesnais](https://autre.space/).

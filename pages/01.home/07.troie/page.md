@@ -46,10 +46,10 @@ En 2019, *Les Règles de la nuit* publie l'intégralité de ces textes, illustr�
 ---
 ### QUI ?
 
-**[luvan](http://www.luvan.org/blog)**: romancière, nouvelliste, poétesse, performeuse. Ces deux dernières années ont vu paraître d'elle *Susto* (roman, La Volte), *Koymesis* (poèmes, Maelström) et *Few of us* (nouvelles, Dystopia). 
+**[luvan](http://www.luvan.org/blog)**: romancière, nouvelliste, poétesse, performeuse. Ces deux dernières années ont vu paraître d'elle *Susto* (roman, La Volte), *Koymesis* (poèmes, Maelström) et *Few of us* (nouvelles, Dystopia).
 Pour Les Règles de la nuit, elle a développé les feuilletons en ligne Sísifo et Le Naurne.
 
-**[Ambre](http://ambre-laurentsautet.tumblr.com/)** : illustrateur et bédéaste. Il est l'auteur, avec David Vandermeulen, de la série de bédé culte *La passion des anabaptistes* (trois volumes & une intégrale chez 6 pieds sous terre, entre 2010 et 2017). 
+**[Ambre](http://ambre-laurentsautet.tumblr.com/)** : illustrateur et bédéaste. Il est l'auteur, avec David Vandermeulen, de la série de bédé culte *La passion des anabaptistes* (trois volumes & une intégrale chez 6 pieds sous terre, entre 2010 et 2017).
 En 2015, il a illustré *Le Chevalier rouge* de luvan (roman, Maelström).
 
 **Laure Afchain** : typographe, maquettiste et graphiste. Elle est derrière, entre autres, les beaux livres des éditions Dystopia, La Volte et Scylla. Codeuse sur *Le Naurne*, elle s’occupera aussi de la version numérique de *Troie*.
@@ -65,7 +65,7 @@ En 2015, il a illustré *Le Chevalier rouge* de luvan (roman, Maelström).
 
 L'association *[Les Règles de la nuit](https://lesreglesdelanuit.net/)* explore depuis 2014 les formes libres que peuvent prendre la littérature (fanzinat, web, email, micro édition...) La publication l’an dernier d'un premier livre papier (*[Twin Peaks, 90210](https://www.dystopia.fr/a/leo-henry/twin-peaks-90210)*) a posé la question du rapport aux professionnels au bout de la chaîne du livre : les imprimeurs.
 
-Le projet de livre-objet *Troie* est né de l’envie d'intégrer tous les acteurs de la création d’un bouquin – artistes, maquettiste, éditeur, techniciens... – pour essayer d’en fabriquer un de la façon la plus horizontale possible. 
+Le projet de livre-objet *Troie* est né de l’envie d'intégrer tous les acteurs de la création d’un bouquin – artistes, maquettiste, éditeur, techniciens... – pour essayer d’en fabriquer un de la façon la plus horizontale possible.
 
 L'illustrateur travaille ainsi directement pour les contraintes de la technique d'impression, d'après des formats établis en accord avec l'autrice et l'éditeur. Cerise sur le gâteau : nous nous réjouissons d'aller mettre la main à la pâte aux studios Fidèle à l'heure de l’impression.
 
@@ -80,7 +80,7 @@ Les *Règles de la nuit* est une asso pauvre mais digne.
 
 Nous avons choisi de lancer une souscription, pour la liberté que nous octroie une avance de trésorerie. Le livre paraîtra cependant quoi qu'il arrive.
 
-Attention, la souscription fait aussi office de précommande : seuls 270 exemplaires du livre seront mis en vente et aucun retirage n'est prévu. 
+Attention, la souscription fait aussi office de précommande : seuls 270 exemplaires du livre seront mis en vente et aucun retirage n'est prévu.
 
 Si *Troie* vous intéresse, ne tardez pas trop à vous manifester !
 
@@ -88,7 +88,7 @@ Nous vous tiendrons ici au courant de l'évolution des stocks.
 
 
 > Le sang du bestiau égorgé chatouille les narines de Zeus.
-> Zeus crie : Dieux ! Faites la guerre. 
+> Zeus crie : Dieux ! Faites la guerre.
 > Dieux. Bêtes. Hommes.
 > Que tous se rappellent ce qui baigne ces trois sangs.
 
@@ -103,17 +103,17 @@ Pour les autres, nous expédierons les livres par la poste où que vous soyez su
 
 Faites parvenir vos chèques ou espèces, vos coordonnées et votre mode de livraison à :
 
-<div class="bloc" markdown="1">
+```
 Les Règles de la nuit
 3 rue de Bâle
 67100 Strasbourg
-</div>
+```
 
 *Les Règles de la nuit* a fait le choix de se passer de micro paiement en ligne. Vous pouvez cependant régler par virement bancaire – RIB de l'asso envoyé par retour de mail à :
 
-<div class="bloc" markdown="1">
+```
 lesreglesdelanuit_arobase_gmail.com
-</div>
+```
 
 ---
 ### QUAND ?
