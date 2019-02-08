@@ -23,6 +23,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
         branch: master
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: master
 
 links:
     admin:
@@ -48,4 +52,8 @@ links:
     problems:
         src: grav-plugin-problems
         path: user/plugins/problems
+        scm: github
+    pagination:
+        src: grav-plugin-pagination
+        path: user/plugins/pagination
         scm: github
