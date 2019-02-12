@@ -8,6 +8,7 @@ themes/*
 accounts/*
 !accounts/.*
 
+/pages
 security.yaml
 
 notes.md
