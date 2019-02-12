@@ -1,0 +1,42 @@
+form:
+  validation: loose
+  fields:
+    section:
+        type: section
+        title: Add Project
+
+    title:
+      type: text
+      label: NIGHT_RULES.ADMIN.PROJECT_TITLE
+      help: NIGHT_RULES.ADMIN.PROJECT_TITLE_HELP
+      validate:
+        required: true
+
+    folder:
+      type: hidden
+      default: '@slugify-title'
+
+    route:
+      type: hidden
+      default: /home
+
+    name:
+      type: hidden
+      default: 'project'
+
+    visible:
+      type: hidden
+      label: PLUGIN_ADMIN.VISIBLE
+      help: PLUGIN_ADMIN.VISIBLE_HELP
+      highlight: ''
+      default: ''
+      options:
+        '': Auto
+        1: PLUGIN_ADMIN.YES
+        0: PLUGIN_ADMIN.NO
+      validate:
+        type: bool
+        required: true
+
+    blueprint:
+      type: blueprint

@@ -1,0 +1,20 @@
+route: /admin
+
+widgets:
+  dashboard-notifications: false
+  dashboard-feed: false
+
+pagemedia:
+  resize_width: 1280
+  resize_height: 1280
+  resize_quality: 0.85
+
+add_modals:
+  -
+    label: Add Article
+    blueprint: admin/pages/new_article
+    show_in: bar
+  -
+    label: Add Project
+    blueprint: admin/pages/new_project
+    show_in: bar
