@@ -24,19 +24,5 @@ form:
       type: hidden
       default: 'article'
 
-    visible:
-      type: hidden
-      label: PLUGIN_ADMIN.VISIBLE
-      help: PLUGIN_ADMIN.VISIBLE_HELP
-      highlight: ''
-      default: ''
-      options:
-        '': Auto
-        1: PLUGIN_ADMIN.YES
-        0: PLUGIN_ADMIN.NO
-      validate:
-        type: bool
-        required: true
-
     blueprint:
       type: blueprint
